@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**thisurinawodya86-hub/Thisurinawodya86-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Thisuri Nawodya**, a 21-year-old software engineering student passionate about building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Currently pursuing a **Software Engineering Degree**
+- 💻 Interested in web development, software design, and emerging technologies
+- 🌱 Always learning and growing my skills
+- 👯 Open to collaborating on interesting projects
+- 📫 Feel free to reach out and connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Journey
+I'm on an exciting journey in the world of software engineering, constantly exploring new tools, languages, and best practices. I believe in writing clean code and creating meaningful solutions that solve real-world problems.
+
+---
+
+*Feel free to check out my projects and don't hesitate to get in touch!* 😊
